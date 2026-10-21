@@ -20,14 +20,6 @@
 
 ---
 
-## 🚀 Ce que je cherche
-
-- 🔎 Je cherche un poste en CDI en tant qu'**ingénieure QA automation** ou **ingénieure IA**.
-- 🧪 Je suis passionnée par l'automatisation des tests, les tests de performance et la qualité logicielle.
-- 🤖 Je m'intéresse à l'intelligence artificielle, à la vision par ordinateur et aux assistants basés sur des LLM.
-
----
-
 ## 🛠️ Mes technologies
 
 ### Tests automatisés

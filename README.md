@@ -50,6 +50,7 @@
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![DeepFace](https://img.shields.io/badge/DeepFace-4B8BBE?style=for-the-badge)
 ![Isolation Forest](https://img.shields.io/badge/Isolation%20Forest-F7931E?style=for-the-badge)
+![Régression linéaire](https://img.shields.io/badge/R%C3%A9gression%20lin%C3%A9aire-F7931E?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/LLM%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/LLM%20Groq-F55036?style=for-the-badge)
@@ -74,6 +75,7 @@
 ### Projet de Fin d'Études | COFICAB Group, Tunis (Fév. – Août 2026)
 
 - Développement de tests de performance et de stabilité automatisés avec Playwright, avec collecte des métriques SAP et tableau de bord en temps réel.
+- Détection des tests de performance anormaux grâce à un modèle de régression linéaire entraîné sur l'historique des tests.
 - Mise en place d'un suivi des privilèges utilisateurs et de l'état des comptes SAP, avec détection des utilisateurs anormaux par Isolation Forest.
 - Mise en place d'un assistant IA basé sur une architecture RAG.
 - **Technologies :** Python, Playwright, Apache JMeter, scikit-learn, TypeScript, Next.js, React, SQLite, API Groq
@@ -83,16 +85,14 @@
 - Conception et développement d'une application de détection et de reconnaissance faciale en temps réel.
 - **Technologies :** Python, OpenCV, MediaPipe, DeepFace, Tkinter
 
-### Stage de fin d'études (Licence) | TPEG, Bizerte (Fév. – Mai 2023)
+### Stage de fin d'études | TPEG, Bizerte (Fév. – Mai 2023)
 
-- Rénovation du système de commande d'une machine TKSM avec un automate Siemens S7-1200 : conception des schémas électriques et programmation en Ladder.
-- Développement d'une interface homme-machine de supervision, installation et câblage des actionneurs et capteurs.
+- Rénovation du système de commande d'une machine TKSM avec un automate Siemens S7-1200 : conception des schémas électriques, programmation en Ladder, développement d'une interface de supervision, installation et câblage des actionneurs et capteurs.
 - **Technologies :** Automate Siemens, TIA Portal, WinCC Runtime, WinRelais, Win Armoire
 
 ### Stage de perfectionnement | CRJ, Bizerte (Janv. – Fév. 2022)
 
-- Analyse et diagnostic d'une armoire électrique existante avec recommandations d'amélioration, et étude technique de la protection électrique (disjoncteurs, câblage).
-- Développement d'une solution d'automatisation avec automate Siemens : conception GRAFCET et programmation en Ladder pour commander l'éclairage, les machines et les horaires de travail.
+- Diagnostic d'une armoire électrique existante (recommandations d'amélioration) et développement d'une solution d'automatisation avec automate Siemens : conception GRAFCET et programmation en Ladder pour commander l'éclairage et les machines.
 - **Technologies :** Automate Siemens, Ecodial, TIA Portal
 
 ### Stage d'initiation | CRJ, Bizerte (Juil. – Août 2021)

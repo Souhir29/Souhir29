@@ -118,19 +118,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Souhir29&show_icons=true&hide_border=true" alt="Statistiques GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souhir29&layout=compact&hide_border=true" alt="Langages les plus utilisés"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Souhir29&hide_border=true" alt="Série de contributions GitHub"/>
-</p>
-
----
-
 ## 📫 Contact
 
 <p align="center">

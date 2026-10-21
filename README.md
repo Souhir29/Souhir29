@@ -15,7 +15,7 @@
 📍 Localisation : Bizerte, Tunisie
 🎓 Formation    : Ingénieure en Génie Logiciel (ISAMM, 2026)
 💡 Passions     : QA automation engineering et intelligence artificielle
-🎯 Objectif     : Un poste en CDI en tant qu'ingénieure QA automation ou ingénieure IA
+🎯 Objectif     : Un poste en tant qu'ingénieure QA automation ou ingénieure IA
 ```
 
 ---

@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour, je suis Souhir Guedda ! 👋</h1>
 
-<h3 align="center"> Ingénieure en Génie Logiciel passionnée par la QA Automation & l'IA</h3>
+<h3 align="center">Ingénieure en Génie Logiciel passionnée par la QA Automation & l'IA</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/souhir-guedda-51425a306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -66,6 +66,15 @@
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### Automatisation industrielle
+
+![Automate Siemens](https://img.shields.io/badge/Automate%20Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![TIA Portal](https://img.shields.io/badge/TIA%20Portal-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![WinCC Runtime](https://img.shields.io/badge/WinCC%20Runtime-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![WinRelais](https://img.shields.io/badge/WinRelais-6C757D?style=for-the-badge)
+![Win Armoire](https://img.shields.io/badge/Win%20Armoire-6C757D?style=for-the-badge)
+![Ecodial](https://img.shields.io/badge/Ecodial-E3000F?style=for-the-badge)
+
 ---
 
 ## 💼 Expérience professionnelle
@@ -97,17 +106,6 @@
 ### Stage d'initiation | CRJ, Bizerte (Juil. – Août 2021)
 
 - Rendu d'observations sur les conditions de travail et les pratiques en vigueur.
-
----
-
-## 📂 Projets
-
-| Projet | Description | Technologies |
-|---|---|---|
-| **Assistant IA interactif** | Reconnaissance de gestes par webcam et réponse en langage naturel avec un LLM | Python, Streamlit, OpenCV, MediaPipe, Google Gemini |
-| **Classification d'images avec ResNet** | Entraînement d'un modèle ResNet pour la classification d'images | Python, PyTorch |
-| [**Application de reconnaissance faciale**](https://github.com/Souhir29/facial-recognition-app) | Détection et reconnaissance faciale en temps réel avec une interface graphique simple | Python, OpenCV, MediaPipe, DeepFace, Tkinter |
-| **Plateforme de supervision des performances et de la sécurité SAP** | Projet de fin d'études chez COFICAB (projet d'entreprise privé, le code source n'est pas public) | Python, Playwright, scikit-learn, Next.js, SQLite |
 
 ---
 
@@ -148,4 +146,6 @@
   <a href="https://github.com/Souhir29"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<p align="center"><i>Créer des logiciels fiables et intelligents, un test à la fois.</i></p>
+<p align="center"><b>Concevoir des solutions fiables et intelligentes, avec passion et rigueur.</b></p>
+
+<p align="center">⭐️ N'hésitez pas à explorer mes dépôts et à me contacter pour collaborer !</p>

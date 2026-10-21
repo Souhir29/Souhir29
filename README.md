@@ -1,11 +1,10 @@
 <h1 align="center">Bonjour, je suis Souhir Guedda ! 👋</h1>
 
-<h3 align="center">Ingénieure en Génie Logiciel | QA Automation | IA</h3>
+<h3 align="center">Passionnée par la QA Automation & l'IA</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/souhir-guedda-51425a306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Souhir29"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:souhirguedda960@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -49,6 +48,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### IA et Machine Learning
 
@@ -56,20 +56,15 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-4B8BBE?style=for-the-badge)
+![Isolation Forest](https://img.shields.io/badge/Isolation%20Forest-F7931E?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/LLM%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/LLM%20Groq-F55036?style=for-the-badge)
 
-### Bases de données et outils
+### Bases de données
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### Automatisation industrielle
-
-![Siemens TIA Portal](https://img.shields.io/badge/TIA%20Portal-009999?style=for-the-badge&logo=siemens&logoColor=white)
-![WinCC](https://img.shields.io/badge/WinCC-009999?style=for-the-badge&logo=siemens&logoColor=white)
-![Ecodial](https://img.shields.io/badge/Ecodial-E3000F?style=for-the-badge)
 
 ---
 
@@ -151,7 +146,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/souhir-guedda-51425a306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Souhir29"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:souhirguedda960@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center"><i>Créer des logiciels fiables et intelligents, un test à la fois.</i></p>

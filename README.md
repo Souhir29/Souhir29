@@ -74,11 +74,14 @@
 
 ### Projet de Fin d'Études | COFICAB Group, Tunis (Fév. – Août 2026)
 
-- Développement de tests de performance et de stabilité automatisés avec Playwright, avec collecte des métriques SAP et tableau de bord en temps réel.
+- Rédaction en Python de scénarios de test de performance et de stabilité du système SAP, automatisés sur navigateur avec Playwright.
+- Évaluation de Selenium et de Robot Framework comme premières solutions d'automatisation des scénarios, puis choix de Playwright.
+- Automatisation de scénarios de collecte des indicateurs de performance du système SAP, avec tableau de bord en temps réel.
+- Automatisation de scénarios de collecte des privilèges utilisateurs et de l'état des comptes SAP, avec détection des utilisateurs anormaux par Isolation Forest.
+- Test des API de la plateforme développée avec Apache JMeter et rédaction du rapport de test.
 - Détection des tests de performance anormaux grâce à un modèle de régression linéaire entraîné sur l'historique des tests.
-- Mise en place d'un suivi des privilèges utilisateurs et de l'état des comptes SAP, avec détection des utilisateurs anormaux par Isolation Forest.
 - Mise en place d'un assistant IA basé sur une architecture RAG.
-- **Technologies :** Python, Playwright, Apache JMeter, scikit-learn, TypeScript, Next.js, React, SQLite, API Groq
+- **Technologies :** Python, Playwright, Selenium, Robot Framework, Apache JMeter, scikit-learn, TypeScript, Next.js, React, SQLite, API Groq
 
 ### Stage d'été | MIC, Bizerte (Juil. – Août 2025)
 
